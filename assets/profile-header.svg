@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Yena Kim</title><desc id="desc">Reliable AI, LLMs, and Data Science.</desc>
+<defs><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8bb5a0" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="260" rx="16" fill="#10261d"/><rect width="1200" height="260" rx="16" fill="url(#grid)"/>
+<rect x="0" y="40" width="4" height="180" rx="2" fill="#70c69a"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+<text x="52" y="55" font-size="12" font-weight="600" letter-spacing="3" fill="#91b9a4">AI / DATA / RESEARCH</text>
+<text x="48" y="125" font-size="58" font-weight="700" letter-spacing="-2" fill="#f2f8f4">Yena Kim</text>
+<text x="52" y="167" font-size="20" fill="#c6ddd0">Reliable AI · LLMs · Machine Learning · Data Science</text>
+<text x="52" y="217" font-size="13" letter-spacing=".5" fill="#89aa98">Problem → Data → Model → Validation → Product</text></g>
+<g fill="none" stroke-linecap="round"><path d="M820 70L930 48L1035 94L1130 65M820 70L900 132L1035 94L1090 200M900 132L970 211L1090 200M930 48L900 132L810 202M1035 94L970 211" stroke="#456a57" stroke-width="1.5"/><path d="M820 70L900 132L1035 94L1090 200" stroke="#70c69a" stroke-opacity=".85" stroke-width="2"/></g>
+<g stroke="#10261d" stroke-width="5"><circle cx="820" cy="70" r="7" fill="#8bb5a0"/><circle cx="930" cy="48" r="6" fill="#668a76"/><circle cx="900" cy="132" r="13" fill="#70c69a"/><circle cx="1035" cy="94" r="10" fill="#70c69a"/><circle cx="1130" cy="65" r="6" fill="#668a76"/><circle cx="810" cy="202" r="6" fill="#668a76"/><circle cx="970" cy="211" r="8" fill="#8bb5a0"/><circle cx="1090" cy="200" r="8" fill="#70c69a"/></g></svg>
