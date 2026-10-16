@@ -30,7 +30,8 @@ I work across machine learning, LLMs, and data science, with a particular intere
 <p><sub>LLM + TABULAR LEARNING · ICTC 2026, ACCEPTED</sub></p>
 <p>Context-aware fusion of GBDT and LLM predictions for personalized sleep prediction from lifelog data.</p>
 <p>Reliability-guided, sample-wise fusion · mean log loss <b>0.6415</b></p>
-<p><b>Yena Kim*</b>, Kabeen Kim*, Minjeong Seo* &nbsp; <sub>(*equal contribution)</sub></p>\n<p><a href="https://github.com/rladPsks/ConFuse"><b>Code &amp; experiments →</b></a></p>
+<p><b>Yena Kim*</b>, Kabeen Kim*, Minjeong Seo* &nbsp; <sub>(*equal contribution)</sub></p>
+<p><a href="https://github.com/rladPsks/ConFuse"><b>Code &amp; experiments →</b></a></p>
 </td>
 </tr>
 <tr>
